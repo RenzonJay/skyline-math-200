@@ -1,4 +1,4 @@
-Timestamp,Gender,How old are you ?,Do you take night time showers or day time showers ?,On average how many minutes did you spend in the shower ?
+Timestamp,Gender,Age,Day Time or Night Time Showers,Minintues spent in the shower 
 4/5/2024 10:35:09,Male,20,Day Time showers,15
 4/5/2024 10:35:12,Female,21,Day Time showers,25
 4/5/2024 10:37:49,Female,19,Night Time showers,15
